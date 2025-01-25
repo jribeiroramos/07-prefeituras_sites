@@ -1,0 +1,827 @@
+Espigão D'Oeste - RO
+Ji-Paraná - RO
+Machadinho D'Oeste - RO
+Nova Brasilândia D'Oeste - RO
+Porto Velho - RO
+Santa Luzia D'Oeste - RO
+São Miguel do Guaporé - RO
+Alvorada D'Oeste - RO
+Alto Alegre dos Parecis - RO
+Novo Horizonte do Oeste - RO
+Campo Novo de Rondônia - RO
+Itapuã do Oeste - RO
+Nova União - RO
+Primavera de Rondônia - RO
+São Felipe D'Oeste - RO
+São Francisco do Guaporé - RO
+Rio Branco - AC
+Alvarães - AM
+Amaturá - AM
+Anamã - AM
+Anori - AM
+Beruri - AM
+Boa Vista do Ramos - AM
+Borba - AM
+Coari - AM
+Codajás - AM
+Eirunepé - AM
+Itamarati - AM
+Japurá - AM
+São Gabriel da Cachoeira - AM
+São Paulo de Olivença - AM
+Urucurituba - AM
+Belém - PA
+Breu Branco - PA
+Cametá - PA
+Cumaru do Norte - PA
+Curralinho - PA
+Goianésia do Pará - PA
+Igarapé-Açu - PA
+Mãe do Rio - PA
+Melgaço - PA
+Ourilândia do Norte - PA
+Peixe-Boi - PA
+Salvaterra - PA
+Santa Bárbara do Pará - PA
+Santa Izabel do Pará - PA
+Santa Maria do Pará - PA
+Santana do Araguaia - PA
+Santo Antônio do Tauá - PA
+São Félix do Xingu - PA
+São Sebastião da Boa Vista - PA
+Senador José Porfírio - PA
+Tomé-Açu - PA
+Tucumã - PA
+Viseu - PA
+Serra do Navio - AP
+Pedra Branca do Amapari - AP
+Calçoene - AP
+Ferreira Gomes - AP
+Mazagão - AP
+Oiapoque - AP
+Porto Grande - AP
+Pracuúba - AP
+Aliança do Tocantins - TO
+Axixá do Tocantins - TO
+Bandeirantes do Tocantins - TO
+Bom Jesus do Tocantins - TO
+Cariri do Tocantins - TO
+Colinas do Tocantins - TO
+Crixás do Tocantins - TO
+Dois Irmãos do Tocantins - TO
+Gurupi - TO
+Itaporã do Tocantins - TO
+Jaú do Tocantins - TO
+Marianópolis do Tocantins - TO
+Maurilândia do Tocantins - TO
+Miracema do Tocantins - TO
+Monte Santo do Tocantins - TO
+Paraíso do Tocantins - TO
+Porto Alegre do Tocantins - TO
+Santa Rosa do Tocantins - TO
+Santa Terezinha do Tocantins - TO
+São Félix do Tocantins - TO
+São Salvador do Tocantins - TO
+Taipas do Tocantins - TO
+Altamira do Maranhão - MA
+Amapá do Maranhão - MA
+Amarante do Maranhão - MA
+Bela Vista do Maranhão - MA
+Buritirana - MA
+Centro Novo do Maranhão - MA
+Itaipava do Grajaú - MA
+Itinga do Maranhão - MA
+Lagoa Grande do Maranhão - MA
+Nova Olinda do Maranhão - MA
+Olinda Nova do Maranhão - MA
+Pinheiro - MA
+Porto Rico do Maranhão - MA
+Santa Filomena do Maranhão - MA
+Santa Quitéria do Maranhão - MA
+Santo Amaro do Maranhão - MA
+Santo Antônio dos Lopes - MA
+São Luís Gonzaga do Maranhão - MA
+São Mateus do Maranhão - MA
+Serrano do Maranhão - MA
+Alagoinha do Piauí - PI
+Alvorada do Gurguéia - PI
+Angical do Piauí - PI
+Buriti dos Montes - PI
+Campo Largo do Piauí - PI
+Canavieira - PI
+Capitão Gervásio Oliveira - PI
+Caraúbas do Piauí - PI
+Caridade do Piauí - PI
+Cocal de Telha - PI
+Cristalândia do Piauí - PI
+Curral Novo do Piauí - PI
+Domingos Mourão - PI
+Fartura do Piauí - PI
+Floresta do Piauí - PI
+Hugo Napoleão - PI
+Ipiranga do Piauí - PI
+Lagoa do Barro do Piauí - PI
+Massapê do Piauí - PI
+Morro do Chapéu do Piauí - PI
+Novo Santo Antônio - PI
+Passagem Franca do Piauí - PI
+Pio IX - PI
+Ribeira do Piauí - PI
+Santa Cruz dos Milagres - PI
+São Braz do Piauí - PI
+São Francisco de Assis do Piauí - PI
+Teresina - PI
+Deputado Irapuan Pinheiro - CE
+Ibaretama - CE
+Maracanaú - CE
+Viçosa do Ceará - CE
+Açu - RN
+Arês - RN
+Governador Dix-Sept Rosado - RN
+Passagem - RN
+Patu - RN
+Pedra Grande - RN
+Santana do Seridó - RN
+São Bento do Trairí - RN
+São Gonçalo do Amarante - RN
+São Vicente - RN
+Senador Elói de Souza - RN
+Senador Georgino Avelino - RN
+Serra Negra do Norte - RN
+São João do Rio do Peixe - PB
+Bom Jesus - PB
+Caraúbas - PB
+Dona Inês - PB
+Pilões - PB
+Princesa Isabel - PB
+Salgado de São Félix - PB
+Santa Teresinha - PB
+São Domingos do Cariri - PB
+São José da Lagoa Tapada - PB
+São Sebastião de Lagoa de Roça - PB
+São Sebastião do Umbuzeiro - PB
+Tacima - PB
+Umbuzeiro - PB
+Bonito - PE
+Brejo da Madre de Deus - PE
+Cabo de Santo Agostinho - PE
+Caetés - PE
+Correntes - PE
+Fernando de Noronha - PE
+Iguaracy - PE
+Jaboatão dos Guararapes - PE
+Jatobá - PE
+Lagoa de Itaenga - PE
+Passira - PE
+Recife - PE
+São Caitano - PE
+Vitória de Santo Antão - PE
+Jundiá - AL
+Major Isidoro - AL
+Santa Luzia do Norte - AL
+Aracaju - SE
+Canindé de São Francisco - SE
+Gracho Cardoso - SE
+Itaporanga d'Ajuda - SE
+Nossa Senhora da Glória - SE
+Nossa Senhora de Lourdes - SE
+Nossa Senhora do Socorro - SE
+Santa Luzia do Itanhy - SE
+São Cristóvão - SE
+Aurelino Leal - BA
+Barra da Estiva - BA
+Biritinga - BA
+Boa Nova - BA
+Brejões - BA
+Buerarema - BA
+Caatiba - BA
+Campo Formoso - BA
+Candeias - BA
+Cândido Sales - BA
+Cardeal da Silva - BA
+Carinhanha - BA
+Central - BA
+Conceição da Feira - BA
+Conceição do Almeida - BA
+Condeúba - BA
+Dom Basílio - BA
+Entre Rios - BA
+Guajeru - BA
+Ibirataia - BA
+Igrapiúna - BA
+Ipecaetá - BA
+Itamari - BA
+Itaquara - BA
+Jequié - BA
+João Dourado - BA
+Juazeiro - BA
+Lajedo do Tabocal - BA
+Maragogipe - BA
+Mucugê - BA
+Nova Redenção - BA
+Ouriçangas - BA
+Porto Seguro - BA
+Potiraguá - BA
+Presidente Dutra - BA
+Presidente Tancredo Neves - BA
+Retirolândia - BA
+Ruy Barbosa - BA
+Santa Terezinha - BA
+Santo Amaro - BA
+Santo Antônio de Jesus - BA
+São José do Jacuípe - BA
+Saúde - BA
+Serra Dourada - BA
+Serrinha - BA
+Teolândia - BA
+Terra Nova - BA
+Ubaíra - BA
+Uibaí - BA
+Vitória da Conquista - BA
+Xique-Xique - BA
+Alfredo Vasconcelos - MG
+Antônio Carlos - MG
+Barão de Monte Alto - MG
+Barroso - MG
+Belo Horizonte - MG
+Belo Vale - MG
+Bonfim - MG
+Bonfinópolis de Minas - MG
+Bonito de Minas - MG
+Cabo Verde - MG
+Camacho - MG
+Cambuí - MG
+Capelinha - MG
+Careaçu - MG
+Carmo da Cachoeira - MG
+Carmo do Cajuru - MG
+Carrancas - MG
+Casa Grande - MG
+Cascalho Rico - MG
+Conceição da Barra de Minas - MG
+Catas Altas da Noruega - MG
+Claraval - MG
+Conceição do Mato Dentro - MG
+Congonhas - MG
+Contagem - MG
+Coronel Fabriciano - MG
+Córrego do Bom Jesus - MG
+Cristália - MG
+Crucilândia - MG
+Descoberto - MG
+Desterro de Entre Rios - MG
+Divinolândia de Minas - MG
+Dores de Campos - MG
+Doresópolis - MG
+Entre Rios de Minas - MG
+Ervália - MG
+Espírito Santo do Dourado - MG
+Florestal - MG
+Governador Valadares - MG
+Grão Mogol - MG
+Guaranésia - MG
+Guaxupé - MG
+Ibiá - MG
+Ibituruna - MG
+Ingaí - MG
+Itamarati de Minas - MG
+Itaverava - MG
+Itumirim - MG
+Itutinga - MG
+Jacuí - MG
+Jeceaba - MG
+Jequitinhonha - MG
+João Monlevade - MG
+Juiz de Fora - MG
+Lagoa Dourada - MG
+Madre de Deus de Minas - MG
+Marliéria - MG
+Materlândia - MG
+Matozinhos - MG
+Monjolos - MG
+Monte Alegre de Minas - MG
+Morada Nova de Minas - MG
+Munhoz - MG
+Oliveira - MG
+Onça de Pitangui - MG
+Ouro Preto - MG
+Pedra Azul - MG
+Perdizes - MG
+Piau - MG
+Piedade de Caratinga - MG
+Piedade do Rio Grande - MG
+Piedade dos Gerais - MG
+Pimenta - MG
+Piumhi - MG
+Presidente Kubitschek - MG
+Resende Costa - MG
+Rio Acima - MG
+Rio Pardo de Minas - MG
+Ritápolis - MG
+Sacramento - MG
+Santa Bárbara do Tugúrio - MG
+Santa Cruz de Minas - MG
+Santa Efigênia de Minas - MG
+Santa Luzia - MG
+Santa Maria do Suaçuí - MG
+Santana do Jacaré - MG
+Santana dos Montes - MG
+Santa Rita de Jacutinga - MG
+Santa Rita do Sapucaí - MG
+Santo Antônio do Aventureiro - MG
+Santo Antônio do Monte - MG
+Santo Hipólito - MG
+São Brás do Suaçuí - MG
+São Francisco de Paula - MG
+São Francisco de Sales - MG
+São Gonçalo do Rio Abaixo - MG
+São Gonçalo do Sapucaí - MG
+São João Batista do Glória - MG
+São João del Rei - MG
+São João do Paraíso - MG
+São João Evangelista - MG
+São João Nepomuceno - MG
+São José do Jacuri - MG
+São José do Mantimento - MG
+São Tiago - MG
+São Tomás de Aquino - MG
+São Vicente de Minas - MG
+Senador Modestino Gonçalves - MG
+Serra dos Aimorés - MG
+Silveirânia - MG
+Tiradentes - MG
+Toledo - MG
+Tombos - MG
+Uberaba - MG
+Uberlândia - MG
+Unaí - MG
+Anchieta - ES
+Atílio Vivácqua - ES
+Baixo Guandu - ES
+Barra de São Francisco - ES
+Bom Jesus do Norte - ES
+Cachoeiro de Itapemirim - ES
+Divino de São Lourenço - ES
+Domingos Martins - ES
+Dores do Rio Preto - ES
+Itapemirim - ES
+Marechal Floriano - ES
+Santa Maria de Jetibá - ES
+São Gabriel da Palha - ES
+São José do Calçado - ES
+São Roque do Canaã - ES
+Sooretama - ES
+Venda Nova do Imigrante - ES
+Viana - ES
+Vila Velha - ES
+Angra dos Reis - RJ
+Armação dos Búzios - RJ
+Arraial do Cabo - RJ
+Barra Mansa - RJ
+Belford Roxo - RJ
+Bom Jesus do Itabapoana - RJ
+Cachoeiras de Macacu - RJ
+Cambuci - RJ
+Carapebus - RJ
+Comendador Levy Gasparian - RJ
+Campos dos Goytacazes - RJ
+Conceição de Macabu - RJ
+Engenheiro Paulo de Frontin - RJ
+Iguaba Grande - RJ
+Laje do Muriaé - RJ
+Macuco - RJ
+Rio de Janeiro - RJ
+Santa Maria Madalena - RJ
+São Francisco de Itabapoana - RJ
+São Gonçalo - RJ
+São João da Barra - RJ
+São João de Meriti - RJ
+São José do Vale do Rio Preto - RJ
+São Pedro da Aldeia - RJ
+São Sebastião do Alto - RJ
+Silva Jardim - RJ
+Americana - SP
+Aparecida d'Oeste - SP
+Araçoiaba da Serra - SP
+Arujá - SP
+Bauru - SP
+Birigui - SP
+Boa Esperança do Sul - SP
+Bocaina - SP
+Bom Jesus dos Perdões - SP
+Bom Sucesso de Itararé - SP
+Bragança Paulista - SP
+Cabrália Paulista - SP
+Canas - SP
+Cesário Lange - SP
+Cordeirópolis - SP
+Corumbataí - SP
+Diadema - SP
+Dobrada - SP
+Embu das Artes - SP
+Engenheiro Coelho - SP
+Espírito Santo do Pinhal - SP
+Estrela d'Oeste - SP
+Euclides da Cunha Paulista - SP
+Francisco Morato - SP
+Franco da Rocha - SP
+Guarujá - SP
+Hortolândia - SP
+Itapecerica da Serra - SP
+Lençóis Paulista - SP
+Lorena - SP
+Luís Antônio - SP
+Lutécia - SP
+Mairiporã - SP
+Matão - SP
+Mineiros do Tietê - SP
+Mogi Mirim - SP
+Neves Paulista - SP
+Óleo - SP
+Paraguaçu Paulista - SP
+Pardinho - SP
+Pederneiras - SP
+Peruíbe - SP
+Piraju - SP
+Ribeira - SP
+Rio Claro - SP
+Rio Grande da Serra - SP
+Santa Bárbara d'Oeste - SP
+Santa Cruz das Palmeiras - SP
+Santa Fé do Sul - SP
+Santana da Ponte Pensa - SP
+Santa Rosa de Viterbo - SP
+Santo André - SP
+Santo Antônio de Posse - SP
+Santo Antônio do Jardim - SP
+Santos - SP
+São Bernardo do Campo - SP
+São Caetano do Sul - SP
+São Carlos - SP
+São João da Boa Vista - SP
+São João das Duas Pontes - SP
+São João do Pau d'Alho - SP
+São José do Rio Preto - SP
+São José dos Campos - SP
+São Sebastião da Grama - SP
+São Vicente - SP
+Serrana - SP
+Sorocaba - SP
+Suzano - SP
+Taboão da Serra - SP
+Vargem Grande do Sul - SP
+Várzea Paulista - SP
+Abatiá - PR
+Almirante Tamandaré - PR
+Alto Paraná - PR
+Alto Piquiri - PR
+Apucarana - PR
+Arapongas - PR
+Araruna - PR
+Araucária - PR
+Assis Chateaubriand - PR
+Bela Vista do Paraíso - PR
+Boa Ventura de São Roque - PR
+Braganey - PR
+Cafezal do Sul - PR
+Califórnia - PR
+Cambé - PR
+Campo Largo - PR
+Campo Mourão - PR
+Carlópolis - PR
+Cascavel - PR
+Congonhinhas - PR
+Corbélia - PR
+Cornélio Procópio - PR
+Coronel Domingos Soares - PR
+Coronel Vivida - PR
+Cruzeiro do Oeste - PR
+Cruz Machado - PR
+Curitiba - PR
+Diamante D'Oeste - PR
+Doutor Camargo - PR
+Enéas Marques - PR
+Fênix - PR
+Fernandes Pinheiro - PR
+Figueira - PR
+Flor da Serra do Sul - PR
+Floresta - PR
+Foz do Iguaçu - PR
+Godoy Moreira - PR
+Guamiranga - PR
+Guaraniaçu - PR
+Ibema - PR
+Iguatu - PR
+Imbaú - PR
+Inácio Martins - PR
+Iracema do Oeste - PR
+Iretama - PR
+Itaúna do Sul - PR
+Ivaí - PR
+Ivatuba - PR
+Janiópolis - PR
+Jardim Olinda - PR
+Joaquim Távora - PR
+Lapa - PR
+Londrina - PR
+Lunardelli - PR
+Mamborê - PR
+Mandaguari - PR
+Marechal Cândido Rondon - PR
+Marilândia do Sul - PR
+Maringá - PR
+Marquinho - PR
+Matinhos - PR
+Mirador - PR
+Missal - PR
+Munhoz de Melo - PR
+Nossa Senhora das Graças - PR
+Nova Aliança do Ivaí - PR
+Nova América da Colina - PR
+Nova Esperança do Sudoeste - PR
+Nova Olímpia - PR
+Nova Santa Bárbara - PR
+Nova Prata do Iguaçu - PR
+Ortigueira - PR
+Ourizona - PR
+Ouro Verde do Oeste - PR
+Paiçandu - PR
+Palmas - PR
+Palmital - PR
+Paraíso do Norte - PR
+Paranaguá - PR
+Paranapoema - PR
+Paranavaí - PR
+Pato Bragado - PR
+Paula Freitas - PR
+Perobal - PR
+Pitanga - PR
+Planaltina do Paraná - PR
+Pontal do Paraná - PR
+Porto Rico - PR
+Prado Ferreira - PR
+Quarto Centenário - PR
+Querência do Norte - PR
+Quinta do Sol - PR
+Rancho Alegre D'Oeste - PR
+Rio Bonito do Iguaçu - PR
+Rosário do Ivaí - PR
+Salto do Lontra - PR
+Santa Izabel do Oeste - PR
+Santa Lúcia - PR
+Santa Mariana - PR
+Santa Tereza do Oeste - PR
+Santa Terezinha de Itaipu - PR
+Santo Antônio da Platina - PR
+Santo Antônio do Caiuá - PR
+Santo Antônio do Paraíso - PR
+Santo Antônio do Sudoeste - PR
+Santo Inácio - PR
+São João do Caiuá - PR
+São João do Triunfo - PR
+São Jorge d'Oeste - PR
+São Jorge do Ivaí - PR
+São Jorge do Patrocínio - PR
+São José das Palmeiras - PR
+São José dos Pinhais - PR
+São Miguel do Iguaçu - PR
+São Pedro do Ivaí - PR
+São Sebastião da Amoreira - PR
+São Tomé - PR
+Serranópolis do Iguaçu - PR
+Tapejara - PR
+Tapira - PR
+Teixeira Soares - PR
+Telêmaco Borba - PR
+Terra Rica - PR
+Terra Roxa - PR
+Toledo - PR
+Três Barras do Paraná - PR
+Tupãssi - PR
+Ubiratã - PR
+Uniflor - PR
+Vera Cruz do Oeste - PR
+Alto Paraíso - PR
+Virmond - PR
+Vitorino - PR
+Xambrê - PR
+Alto Bela Vista - SC
+Anita Garibaldi - SC
+Arabutã - SC
+Araquari - SC
+Arvoredo - SC
+Aurora - SC
+Balneário Arroio do Silva - SC
+Balneário Camboriú - SC
+Balneário Barra do Sul - SC
+Barra Velha - SC
+Bela Vista do Toldo - SC
+Biguaçu - SC
+Bocaina do Sul - SC
+Canoinhas - SC
+Chapadão do Lageado - SC
+Concórdia - SC
+Cordilheira Alta - SC
+Corupá - SC
+Cunha Porã - SC
+Faxinal dos Guedes - SC
+Florianópolis - SC
+Formosa do Sul - SC
+Garopaba - SC
+Garuva - SC
+Gravatal - SC
+Guaraciaba - SC
+Guaramirim - SC
+Guarujá do Sul - SC
+Iporã do Oeste - SC
+Itá - SC
+Itapiranga - SC
+Itapoá - SC
+Jacinto Machado - SC
+Jaraguá do Sul - SC
+Joinville - SC
+José Boiteux - SC
+Lontras - SC
+Massaranduba - SC
+Morro da Fumaça - SC
+Nova Erechim - SC
+Orleans - SC
+Paial - SC
+Palhoça - SC
+Palma Sola - SC
+Paraíso - SC
+Penha - SC
+Balneário Piçarras - SC
+Pinhalzinho - SC
+Planalto Alegre - SC
+Pomerode - SC
+Ponte Alta do Norte - SC
+Presidente Castello Branco - SC
+Presidente Getúlio - SC
+Presidente Nereu - SC
+Princesa - SC
+Rancho Queimado - SC
+Rio do Campo - SC
+Santa Helena - SC
+Santa Rosa de Lima - SC
+Santa Rosa do Sul - SC
+Santa Terezinha do Progresso - SC
+Santo Amaro da Imperatriz - SC
+São Bento do Sul - SC
+São Carlos - SC
+São Cristóvão do Sul - SC
+São João do Oeste - SC
+São João Batista - SC
+São João do Itaperiú - SC
+São João do Sul - SC
+São José do Cedro - SC
+São José do Cerrito - SC
+São Lourenço do Oeste - SC
+São Miguel do Oeste - SC
+São Pedro de Alcântara - SC
+Seara - SC
+Videira - SC
+Zortéa - SC
+Aceguá - RS
+Alegria - RS
+Alvorada - RS
+Aratiba - RS
+Arroio dos Ratos - RS
+Bagé - RS
+Barra do Guarita - RS
+Barra do Quaraí - RS
+Boa Vista do Sul - RS
+Bom Princípio - RS
+Cachoeirinha - RS
+Caibaté - RS
+Camargo - RS
+Campo Bom - RS
+Campo Novo - RS
+Canudos do Vale - RS
+Caxias do Sul - RS
+Cerro Branco - RS
+Coxilha - RS
+Cristal do Sul - RS
+Cruz Alta - RS
+Cruzeiro do Sul - RS
+Derrubadas - RS
+Dois Irmãos - RS
+Dois Irmãos das Missões - RS
+Dois Lajeados - RS
+Dom Pedrito - RS
+Doutor Maurício Cardoso - RS
+Eldorado do Sul - RS
+Erechim - RS
+Estação - RS
+Estrela - RS
+Fortaleza dos Valos - RS
+Garibaldi - RS
+Getúlio Vargas - RS
+Gramado - RS
+Gramado Xavier - RS
+Gravataí - RS
+Guaíba - RS
+Horizontina - RS
+Ibiraiaras - RS
+Imbé - RS
+Independência - RS
+Inhacorá - RS
+Ipê - RS
+Jaboticaba - RS
+Jaguarão - RS
+Lagoa Bonita do Sul - RS
+Lagoa dos Três Cantos - RS
+Lagoa Vermelha - RS
+Lajeado - RS
+Marau - RS
+Montauri - RS
+Muitos Capões - RS
+Nova Esperança do Sul - RS
+Nova Santa Rita - RS
+Osório - RS
+Palmitinho - RS
+Panambi - RS
+Parobé - RS
+Passo Fundo - RS
+Pedras Altas - RS
+Picada Café - RS
+Pinhal da Serra - RS
+Pirapó - RS
+Piratini - RS
+Santa Cruz do Sul - RS
+Santa Maria - RS
+Santa Rosa - RS
+Santo Ângelo - RS
+Santo Antônio do Palma - RS
+São Leopoldo - RS
+São Marcos - RS
+São Miguel das Missões - RS
+São Vicente do Sul - RS
+Sapiranga - RS
+Sede Nova - RS
+Tapes - RS
+Taquara - RS
+Ubiretama - RS
+Vanini - RS
+Vespasiano Corrêa - RS
+Vista Alegre - RS
+Vista Alegre do Prata - RS
+Vista Gaúcha - RS
+Vitória das Missões - RS
+Água Clara - MS
+Alcinópolis - MS
+Aquidauana - MS
+Caracol - MS
+Figueirão - MS
+Nova Andradina - MS
+Novo Horizonte do Sul - MS
+Rio Negro - MS
+Rio Verde de Mato Grosso - MS
+São Gabriel do Oeste - MS
+Selvíria - MS
+Terenos - MS
+Acorizal - MT
+Alto Boa Vista - MT
+Alto Garças - MT
+Araguaiana - MT
+Barão de Melgaço - MT
+Bom Jesus do Araguaia - MT
+Canabrava do Norte - MT
+Indiavaí - MT
+Jangada - MT
+Jauru - MT
+Luciara - MT
+Nova Bandeirantes - MT
+Planalto da Serra - MT
+Ponte Branca - MT
+Ribeirão Cascalheira - MT
+Rondonópolis - MT
+Rosário Oeste - MT
+Santo Antônio de Leverger - MT
+Nova Marilândia - MT
+Adelândia - GO
+Alto Paraíso de Goiás - GO
+Aparecida de Goiânia - GO
+Bela Vista de Goiás - GO
+Bom Jardim de Goiás - GO
+Bom Jesus de Goiás - GO
+Cachoeira de Goiás - GO
+Campestre de Goiás - GO
+Campo Alegre de Goiás - GO
+Cocalzinho de Goiás - GO
+Estrela do Norte - GO
+Divinópolis de Goiás - GO
+Monte Alegre de Goiás - GO
+Morro Agudo de Goiás - GO
+Nova Crixás - GO
+Nova Iguaçu de Goiás - GO
+Ouro Verde de Goiás - GO
+Petrolina de Goiás - GO
+Pilar de Goiás - GO
+Santa Helena de Goiás - GO
+Santa Rosa de Goiás - GO
+Santa Tereza de Goiás - GO
+Taquaral de Goiás - GO
+Terezópolis de Goiás - GO
+Município Não Definido - ND
+Internacional - INTL
