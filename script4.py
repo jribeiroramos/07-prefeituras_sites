@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Carregar o arquivo CSV
-file_path = 'municipios_com_sites_atualizado.csv'  # Substitua pelo caminho do arquivo
+file_path = 'municipios_com_sites_atualizado_tmp.csv'  # Substitua pelo caminho do arquivo
 data = pd.read_csv(file_path)
 
 # Contar quantos municípios têm o site preenchido
