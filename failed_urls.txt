@@ -1,43 +1,43 @@
-Espigão D'Oeste - RO
-Ji-Paraná - RO
-Machadinho D'Oeste - RO
-Nova Brasilândia D'Oeste - RO
-Santa Luzia D'Oeste - RO
-São Miguel do Guaporé - RO
-Alvorada D'Oeste - RO
-Alto Alegre dos Parecis - RO
-Novo Horizonte do Oeste - RO
-Campo Novo de Rondônia - RO
-Itapuã do Oeste - RO
-Nova União - RO
-Primavera de Rondônia - RO
-São Felipe D'Oeste - RO
-São Francisco do Guaporé - RO
-Alvarães - AM
-Amaturá - AM
-Anamã - AM
-Anori - AM
-Beruri - AM
-Boa Vista do Ramos - AM
-Borba - AM
-Codajás - AM
-Itamarati - AM
-Japurá - AM
-São Gabriel da Cachoeira - AM
-São Paulo de Olivença - AM
-Urucurituba - AM
-Cumaru do Norte - PA
-Curralinho - PA
-Goianésia do Pará - PA
-Melgaço - PA
-Ourilândia do Norte - PA
-Santa Bárbara do Pará - PA
-Santa Izabel do Pará - PA
-Santa Maria do Pará - PA
-Santana do Araguaia - PA
-Santo Antônio do Tauá - PA
-São Félix do Xingu - PA
-São Sebastião da Boa Vista - PA
+Espigão D'Oeste - RO, https://www.espigaodooeste.ro.gov.br/
+Ji-Paraná - RO, https://ji-parana.ro.gov.br/
+Machadinho D'Oeste - RO, https://machadinho.ro.gov.br/
+Nova Brasilândia D'Oeste - RO,https://novabrasilandia.ro.gov.br/
+Santa Luzia D'Oeste - RO,https://www.santaluzia.ro.gov.br/
+São Miguel do Guaporé - RO,https://www.saomiguel.ro.gov.br/
+Alvorada D'Oeste - RO,https://www.alvoradadooeste.ro.gov.br/
+Alto Alegre dos Parecis - RO,https://altoalegre.ro.gov.br/
+Novo Horizonte do Oeste - RO,https://novohorizonte.ro.gov.br/
+Campo Novo de Rondônia - RO,https://camponovo.ro.gov.br/
+,Itapuã do Oeste - RO,https://itapuadooeste.ro.gov.br/
+Nova União - RO,https://novauniao.ro.gov.br/
+Primavera de Rondônia - RO,https://www.primavera.ro.gov.br/
+,São Felipe D'Oeste - RO,https://www.saofelipe.ro.gov.br/
+São Francisco do Guaporé - RO,https://www.saofrancisco.ro.gov.br/
+Alvarães - AM,https://transparenciamunicipalaam.org.br/p/alvaraes/t/orgaos-publicos-municipais
+Amaturá - AM  -https://transparenciamunicipalaam.org.br/p/amatura
+Anamã - AM - https://transparenciamunicipalaam.org.br/p/anama
+Anori - AM - https://transparenciamunicipalaam.org.br/p/anori
+Beruri - AM - https://pmberuri.am.gov.br/
+Boa Vista do Ramos - AM - https://transparenciamunicipalaam.org.br/p/boavistadoramos
+Borba - AM  - ??
+Codajás - AM - https://transparenciamunicipalaam.org.br/p/codajas
+Itamarati - AM - https://transparenciamunicipalaam.org.br/p/itamarati
+Japurá - AM - https://transparenciamunicipalaam.org.br/p/japura
+São Gabriel da Cachoeira - AM - https://transparenciamunicipalaam.org.br/p/sao-gabriel-da-cachoeira
+São Paulo de Olivença - AM - https://transparenciamunicipalaam.org.br/p/sao-paulo-de-olivenca
+Urucurituba - AM - https://transparenciamunicipalaam.org.br/p/urucurituba
+Cumaru do Norte - PA - https://pmcn.pa.gov.br/
+Curralinho - PA - https://pmcurralinho.pa.gov.br/
+Goianésia do Pará - PA - https://goianesia.pa.gov.br/
+Melgaço - PA - https://melgaco.pa.gov.br/o-municipio/telefones-uteis/
+Ourilândia do Norte - PA - https://ourilandia.pa.gov.br/
+Santa Bárbara do Pará - PA - https://santabarbara.pa.gov.br/
+Santa Izabel do Pará - PA - https://santaizabel.pa.gov.br/
+Santa Maria do Pará - PA - https://santamaria.pa.gov.br/
+Santana do Araguaia - PA - https://www.pmsaraguaia.pa.gov.br/
+Santo Antônio do Tauá - PA - https://pmsat.pa.gov.br/
+São Félix do Xingu - PA - https://www.sfxingu.pa.gov.br/
+São Sebastião da Boa Vista - PA - https://pmssbv.pa.gov.br/
 Senador José Porfírio - PA
 Pedra Branca do Amapari - AP
 Aliança do Tocantins - TO
